@@ -914,6 +914,7 @@ nav ul li:hover {
 @keyframes ubic{
     0%{
         transform: rotateX(360deg);
+        font-size: 10px;
     }
 
     100%{
